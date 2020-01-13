@@ -8,9 +8,11 @@ You might want to consider deciding on some design principles for the website yo
 
 Tell us about any others you find
 
+* https://www.themodernhouse.com/
 * http://onnoschwanen.com/
 * http://getcoleman.com/
 * https://studio.zeldman.com/
+* https://www.lrb.co.uk/
 * http://www.pentagram.com/#/home
 * http://spin.co.uk/
 * http://www.bibliothequedesign.com/
@@ -67,5 +69,9 @@ Tell us about any others you find
 * http://www.mando.agency/
 * https://www.makedo.net/
 * http://bradfrost.com/
+
+aaaaaand
+
+* https://www.lingscars.com/
 
 
