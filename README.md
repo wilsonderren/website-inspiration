@@ -8,6 +8,9 @@ You might want to consider deciding on some design principles for the website yo
 
 Tell us about any others you find
 
+* https://lynnandtonic.com/
+* http://jessicahische.is/
+* https://www.sarasoueidan.com/
 * https://www.themodernhouse.com/
 * http://onnoschwanen.com/
 * http://getcoleman.com/
